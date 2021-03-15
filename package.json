@@ -1,0 +1,21 @@
+{
+  "name": "wujiatao.github.io",
+  "version": "1.0.0",
+  "description": "wujiatao个人主页",
+  "main": "index.js",
+  "scripts": {
+    "serve": "cd blog && npm run serve",
+    "build": "cd blog && npm run build",
+    "lint": "vue-cli-service lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weeping-clown/wujiatao.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weeping-clown/wujiatao.github.io/issues"
+  },
+  "homepage": "https://github.com/Weeping-clown/wujiatao.github.io#readme"
+}
