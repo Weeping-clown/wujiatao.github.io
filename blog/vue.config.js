@@ -1,6 +1,7 @@
-module.exports = {
-    publicPath: '../dist/',
-    outputDir: '../dist',
-    // assetsDir: '',
-    // indexPath: '../'
-  }
+
+if (process.env.NODE_ENV == 'production') {
+    module.exports = {
+      publicPath: '../dist/',
+      outputDir: '../dist/',
+    }
+}

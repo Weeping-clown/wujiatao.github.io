@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Weeping-clown/wujiatao.github.io/issues"
   },
-  "homepage": "https://github.com/Weeping-clown/wujiatao.github.io#readme"
+  "homepage": "https://github.com/Weeping-clown/wujiatao.github.io#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
 }
