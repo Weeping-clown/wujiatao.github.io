@@ -3,6 +3,10 @@ ul {
     padding: 0px;
     margin: 0px;
 }
+html,body {
+    min-height: 100%;
+    background-color: rgb(226, 226, 226);
+}
 div {
     font-size: 12px;
 }
